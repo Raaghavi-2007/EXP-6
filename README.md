@@ -29,8 +29,8 @@ PROCEDURE:
 
 CIRCUIT DIAGRAM:
 <img width="1280" height="1104" alt="image" src="https://github.com/user-attachments/assets/cc088bc7-88f6-4ca3-9c99-f6b5bedea4a4" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6ede02e9-dc8f-43ee-8323-8c27dbdbb9d3" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7b0ff1fa-f0ea-46c7-99d9-930660c0aad0" />
+<img width="1715" height="838" alt="Screenshot 2025-10-12 135122" src="https://github.com/user-attachments/assets/a2811e63-ab9f-48fe-bde3-51adb9f56bba" />
+<img width="1712" height="838" alt="Screenshot 2025-10-12 134924" src="https://github.com/user-attachments/assets/29a566b7-ded0-47ca-9d17-69cc320a372f" />
 
 TABULATION:
 <img width="1280" height="711" alt="image" src="https://github.com/user-attachments/assets/52d390a0-0719-420d-bea7-5a4439a21e43" />
