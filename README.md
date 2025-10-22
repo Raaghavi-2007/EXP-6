@@ -36,7 +36,7 @@ TABULATION:
 <img width="1280" height="711" alt="image" src="https://github.com/user-attachments/assets/52d390a0-0719-420d-bea7-5a4439a21e43" />
 
 MODEL GRAPH:
-<img width="933" height="1280" alt="image" src="https://github.com/user-attachments/assets/2c734918-2b78-46c3-8dcf-1838156f346f" />
+<img width="1252" height="1600" alt="image" src="https://github.com/user-attachments/assets/acfe2712-d30a-433c-9e9c-349b2f9fc683" />
 
 PRECAUTION: 
 
