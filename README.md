@@ -38,6 +38,12 @@ TABULATION:
 MODEL GRAPH:
 <img width="1252" height="1600" alt="image" src="https://github.com/user-attachments/assets/acfe2712-d30a-433c-9e9c-349b2f9fc683" />
 
+GRAPH:
+<img width="1212" height="1280" alt="image" src="https://github.com/user-attachments/assets/be0191ff-0a17-4473-a19f-9d102d248ebe" />
+
+OBSERVATION TABLE:
+<img width="1112" height="729" alt="image" src="https://github.com/user-attachments/assets/3c8282dc-5467-43c9-aae7-2bec37a0430e" />
+
 PRECAUTION: 
 
 1. The values on the multimeter should be carefully noted.
